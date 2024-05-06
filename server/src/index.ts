@@ -1,4 +1,3 @@
-// PWD : QWBh2bvk7BzbirSV username:balajiyatheysh87
 import express, {Express} from "express";
 import mongoose from "mongoose";
 import cors from 'cors';
